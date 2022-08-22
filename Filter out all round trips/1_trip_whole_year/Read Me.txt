@@ -1,0 +1,9 @@
+Here the three folders are named trip_2019_whole_year, trip_2019_whole_year and trip_2019_whole_year. 
+
+The data from TfL should have been placed in these folders, 
+but the amount of data was too large to successfully upload to GitHub, so the folder is empty.
+
+Readers can download the trip data for the corresponding year here: https://cycling.data.tfl.gov.uk/
+
+But don't worry, this won't affect the code in other folders, 
+because the new tables generated in this step have already been copied to the folders that need them.
